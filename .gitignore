@@ -1,0 +1,10 @@
+/archive
+/sandbox
+augment_contrasting_network.py
+*.pyc
+/utilities/*.pyc
+*.DS_Store
+.DS_Store
+.idea
+utilities/visualization_utilities.py
+*.hdf5
